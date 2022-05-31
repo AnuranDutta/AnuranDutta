@@ -1,4 +1,3 @@
-![MasterHead](https://www.financialexecutives.org/getattachment/Events/Webinar/The-Digital-CFOs-Guide-to-Technology-Evaluation-Fo/Webinar2-1600x350.jpg.aspx?lang=en-US&width=1600&height=350&ext=.jpg)
 <h1 align="center">Hi 👋, I'm Anuran Dutta</h1>
 <h3 align="center">A passionate Software Engineer.</h3>
 
